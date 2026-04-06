@@ -1,0 +1,31 @@
+Starting simulation
+Successfully loaded Q-table from file: q_table.csv
+Running simulation
+Starting RLMove at time: 1
+Finished RLMove, new position: (0, -5, 10), TempX: 0.5, TempY: 0.55, TempZ: 0.8, Distance: 68.0074
+Starting RLMove at time: 2
+Finished RLMove, new position: (0, -10, 5), TempX: 0.5, TempY: 0.6, TempZ: 0.9, Distance: 64.2262
+Starting RLMove at time: 3
+Finished RLMove, new position: (0, -15, 0), TempX: 0.5, TempY: 0.65, TempZ: 1, Distance: 61.0328
+Starting RLMove at time: 4
+Finished RLMove, new position: (5, -20, 0), TempX: 0.55, TempY: 0.7, TempZ: 1, Distance: 54.0833
+Starting RLMove at time: 5
+Finished RLMove, new position: (10, -20, 5), TempX: 0.6, TempY: 0.7, TempZ: 0.9, Distance: 50.2494
+Starting RLMove at time: 6
+Finished RLMove, new position: (10, -25, 10), TempX: 0.6, TempY: 0.75, TempZ: 0.8, Distance: 48.2183
+Starting RLMove at time: 7
+Finished RLMove, new position: (10, -30, 5), TempX: 0.6, TempY: 0.8, TempZ: 0.9, Distance: 45
+Starting RLMove at time: 8
+Finished RLMove, new position: (10, -35, 0), TempX: 0.6, TempY: 0.85, TempZ: 1, Distance: 42.72
+Starting RLMove at time: 9
+Finished RLMove, new position: (10, -45, 0), TempX: 0.6, TempY: 0.95, TempZ: 1, Distance: 40.3113
+Starting RLMove at time: 10
+Finished RLMove, new position: (15, -50, 0), TempX: 0.65, TempY: 1, TempZ: 1, Distance: 35
+Starting RLMove at time: 11
+Finished RLMove, new position: (25, -50, 0), TempX: 0.75, TempY: 1, TempZ: 1, Distance: 25
+Starting RLMove at time: 12
+Finished RLMove, new position: (35, -50, 0), TempX: 0.85, TempY: 1, TempZ: 1, Distance: 15
+Starting RLMove at time: 13
+Finished RLMove, new position: (45, -50, 0), TempX: 0.95, TempY: 1, TempZ: 1, Distance: 5
+Target found at distance: 5m
+Simulation finished
